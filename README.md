@@ -1,5 +1,7 @@
 # search_jsdelivr_api
 
+#### Live Demo: https://maluzhenkov.github.io/npm_finder/
+
 [Задание](https://docs.google.com/document/d/1zzLsMVgDgbddQ2IeKOy2ByMr5NIzr6ywHTiPJ59tm7w/edit?usp=sharing)
 
 ## Project setup

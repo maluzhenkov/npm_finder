@@ -2,10 +2,12 @@
   "name": "search_jsdelivr_api",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://maluzhenkov.github.io/npm_finder",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "axios": "^0.19.2",
@@ -21,6 +23,7 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
+    "gh-pages": "^3.0.0",
     "sass": "^1.19.0",
     "sass-loader": "^8.0.0",
     "vue-cli-plugin-vuetify": "^2.0.5",
